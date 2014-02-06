@@ -1,0 +1,16 @@
+---
+title:
+---
+
+.main-contain
+  .pure-g-r
+    .pure-u-1-2
+      %h1 Hello folks.
+    .pure-u-1-2
+      %p What up?
+      :markdown
+        #{File.read(File.join(File.dirname(__FILE__), "test.md"))}
+
+
+
+
