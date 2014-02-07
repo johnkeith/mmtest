@@ -22,7 +22,7 @@ We also discuss the design process and break this process down into three core s
 2. Prototyping
 3. Usability Testing
 
-At the end of class, the students fill in a survey about what apps they use most frequently, what they find useful or enjoyable about these apps, and what they think could be improved. The survey is intended to help students start thinking critcally about how apps function and what makes certain apps better than others. 
+At the end of this class, the students fill in a survey about what apps they use most frequently, what they find useful or enjoyable about these apps, and what they think could be improved. The survey is intended to help students start thinking critcally about how apps function and what makes certain apps better than others. 
 
 [Link to the Hiaku deck]()
 [Link to the survey]()
@@ -37,6 +37,7 @@ In the next session, we jump into the first part of the app design process - Nee
 We catagorize all forms and functions within an app as falling under either Navigation or Information. This provides an easy way to frame important questions about our own app ideas.
 
 - How do users move around and interact with my app?
+- How to can I make using this app as simple and easy as possible?
 - What do users see, create, or do with my app?
 - What is the data displayed or stored by my app?
 
@@ -54,6 +55,14 @@ A couple of great examples from our classes include the following.
 The third session of this unit is pitch day. Students take the ideas they came up with in the second session and present them to the class. These presentations need not be long, one to two minutes tops per student. 
 
 Presntations are then followed by voting on the app ideas. The students should vote for their top three choices, but should not vote for their own idea. 
+
+The votes will be used to determine the best app ideas in the class. We will then split into groups based on the winning apps, with no more than 3 - 4 students per group.
+
+## Part Four: First Design Day
+
+The next step is to begin fleshing out our design ideas. We start by forming into our groups, then taking a few minutes to write out an *Application Definition Statement* (ADS) that succiciently states the nature of our app - the problem it solves and the users it targets. This ADS provides a point of reference for all group members to keep them focused on the overall goals of the app during the design process. 
+
+On this day, we introduce a handful of fundamental concepts related to design. 
 
 
 
