@@ -1,16 +1,39 @@
 ---
-title:
+title: Info. Tools App Design Unit
 ---
 
 .main-contain
   .pure-g-r
-    .pure-u-1-2
-      %h1 Hello folks.
-    .pure-u-1-2
-      %p What up?
-      :markdown
-        #{File.read(File.join(File.dirname(__FILE__), "test.md"))}
-
+    .pure-u-1.main-title 
+      %h1 INFO. TOOLS APP DESIGN UNIT
+    .pure-u-1 
+      .why-design-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/whydesign.md"))}
+    .pure-u-1
+      .part-one-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/partone.md"))}
+    .pure-u-1
+      .part-two-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/parttwo.md"))}
+    .pure-u-1
+      .part-three-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/partthree.md"))}
+    .pure-u-1
+      .part-four-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/partfour.md"))}
+    .pure-u-1
+      .part-four-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/partfive.md"))}
+    .pure-u-1
+      .part-four-sec
+        :markdown
+          #{File.read(File.join(File.dirname(__FILE__), "texts/partsix.md"))}
 
 
 

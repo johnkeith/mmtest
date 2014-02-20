@@ -1,0 +1,5 @@
+## Why are we learning how to design apps in Info. Tools?
+
+In Info. Tools, our goal is to learn how to use technology more efficiently and effectively. A major part of effective use of technology is being able to navigate new types of apps and programs (that is, new types of interfaces) successfully. By studying how apps are designed and designing a few interfaces of our own, we are exploring the fundamental building blocks of our interactions with technology and gaining a greater understanding of how to approach new technologies in the future. 
+
+Technology - both in terms of apps and devices - is changing with such rapidity these days that studying a certain program (like Apple's Pages or Microsoft Excel) does not make sense. Students need to be equipped to quickly navigate and utilize any interface they may come across during their educational career. Our focus on the design, rather than the nuances of how to use certain features or functions of an app, allows us to better build the skills to tackle problems using any manner of technology.
